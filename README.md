@@ -10,6 +10,9 @@
 ![Issues](https://img.shields.io/github/issues/Md-Tarikul-Islam-Juel/nestJS_Websocket?color=red)
 
 
+<img src="https://github.com/Md-Tarikul-Islam-Juel/NestJs_AWS_IoT_Core_WebSocket/blob/main/documents/photos/banner.jpg" alt="banner" style="display: block; margin: auto;">
+
+
 The **NestJS_AWS_IoT_Core_WebSocket_Boilerplate** provides a solid foundation for enabling real-time communication between client applications (such as mobile apps) and IoT devices (such as ESP32) using NestJS servers.
 
 **Enhanced Communication Flow:**
